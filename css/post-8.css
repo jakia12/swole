@@ -200,12 +200,13 @@
 }
 
 .elementor-8 .elementor-element.elementor-element-8e69b94 > .elementor-container {
-	min-height: 90vh;
+	min-height: 110vh;
 }
 
 .elementor-8 .elementor-element.elementor-element-8e69b94:not(.elementor-motion-effects-element-type-background),
 .elementor-8 .elementor-element.elementor-element-8e69b94 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
 	background-color: transparent;
+	/* margin-top: 60px; */
 	background-image: linear-gradient(180deg, #e0ca64 0%, #727050 49%);
 }
 
